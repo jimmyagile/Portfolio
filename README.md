@@ -1,4 +1,4 @@
-# Jimmy Edgell #jimmyagile
+# Jimmy Edgell
 ### 👋 Hi, I'm Jimmy
 
 I help teams solve their biggest business problems by designing and building machine learning systems. Currently, I'm a Data Science Lead at Whitbread (Premier Inn hotels). Outside of work:
