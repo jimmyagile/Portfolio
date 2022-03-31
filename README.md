@@ -9,6 +9,6 @@ I help teams solve their biggest business problems by designing and building mac
 - 🎶 I'm listening: music discovery, seeking out inspiring riffs (to avoid the guitar becoming a dusty ornament)
 
 
-📬 Connect with me
+#### 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jamesedgell/)
 - [Twitter](https://twitter.com/jimmyedgell)
