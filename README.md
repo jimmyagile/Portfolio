@@ -8,6 +8,9 @@ I help teams solve their biggest business problems by designing and building mac
 - 😅 I'm keeping fit: playing football, hiking, lifting weights, practicing yoga
 - 🎶 I'm jamming: music discovery, seeking out techy guitar riffs
 
+#### 📝 Recent outreach
+- [Would You Data Scientist?](https://open.spotify.com/episode/7mkGMifHY) podcast - 12 May 2022
+
 
 #### 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jamesedgell/)
