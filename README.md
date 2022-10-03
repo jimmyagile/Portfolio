@@ -1,7 +1,7 @@
 # Jimmy Edgell
 ### 👋 Hi, I'm Jimmy
 
-I help teams to solve their biggest business problems, often spending most my time (responsibly) developing, deploying and iterating on ML systems. Currently I'm working as a Data Science Lead at Whitbread (Premier Inn hotels). Outside of work:
+I help teams to solve their biggest business problems, and enjoy dedicating myself to (responsibly) developing, deploying & iterating on ML systems. Currently I'm working as a Data Science Lead at Whitbread (Premier Inn hotels). Outside of work:
 
 - 🌱 I'm learning: NLP (deep learning), whilst pursuing the DeepLearning.ai Specialization in MLOps
 - 📚 I'm reading: Albert Camus' The Plague, and tuning in on Physics/Neuroscience/History audiobooks
