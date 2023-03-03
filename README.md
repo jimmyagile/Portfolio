@@ -1,10 +1,10 @@
 # Jimmy Edgell
 ### 👋 Hi, I'm Jimmy
 
-I'm a Data Scientist specialising in unlocking the value of customer data and applied NLP. I enjoy dedicating myself to (responsibly) developing, deploying & iterating on ML systems. Currently, I'm working as a Data Science Lead in the travel sector with Whitbread (Premier Inn hotels & restaurants, UK & Germany). Outside of work:
+I'm a Data Scientist specialising in unlocking the value of customer data and applied NLP. I enjoy dedicating myself to (responsibly) developing, deploying & iterating on ML systems. Currently, I'm working as a Senior Data Scientist in the travel sector with WestJet. Outside of work:
 
-- 🌱 I'm learning: NLP (deep learning), pursuing the DeepLearning.ai MLOps Specialization, + tuning in to Physics/Neuroscience audiobooks
-- 🏋️ I'm keeping fit: playing football, hiking, lifting weights, practicing yoga
+- 🌱 I'm learning: Pursuing the DeepLearning.ai MLOps Specialization, tuning in to Physics/Neuroscience/History audiobooks
+- 🏋️ I'm keeping fit: snowboarding & hiking British Columbia, lifting weights, practicing yoga
 - 🎶 I'm sound seeking: music discovery, gig-going, occasional guitar-ing
 
 #### 📚 Recent outreach
